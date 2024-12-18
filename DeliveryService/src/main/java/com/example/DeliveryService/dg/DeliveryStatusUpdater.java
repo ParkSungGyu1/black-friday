@@ -1,4 +1,3 @@
-/*
 package com.example.DeliveryService.dg;
 
 import com.example.DeliveryService.enums.DeliveryStatus;
@@ -30,4 +29,3 @@ public class DeliveryStatusUpdater {
         });
     }
 }
-*/
